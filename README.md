@@ -7,17 +7,18 @@ This is the template repository for Homework 1 for [BEE 6940, Climate Risk Analy
 ## Learning Objectives
 
 After completing Homework 1, you should be able to:
+  * complete basic programming tasks in Julia;
   * identify the source of common code errors;
   * apply basic strategies of code debugging;
   * interpret code snippets;
-  * use your knowledge of Julia to fix code errors;
-  * rewrite code as functions for reuse.
+  * use your knowledge of Julia to fix code errors.
 
 ## Repository Overview
 
 The repository consists of the following files:
-- `hw1.ipynb`: Jupyter Notebook for the homework assignment. Students should create code or Markdown blocks as necessary to answer questions. An exported PDF 
-- `Project.toml`: Julia environment files. These should just work, but feel free to add other packages as needed using the `Pkg` package manager.
+- `hw1.ipynb`: Jupyter Notebook for the homework assignment. Students should create code or Markdown blocks as necessary to answer questions. **This is the only file you should need to edit.**
+- `Project.toml`: Julia environment files. These should just work, but feel free to add other packages as needed using the `Pkg` package manager. **This is the only other file that you might end up making changes to, though you should do this using `Pkg`, not directly.**
+- `hw1.jl`: Source file for Jupyter notebook generation. You shouldn't need to or want to touch this; everything is in the `.ipynb` file.
 - `LICENSE`: This material is licensed using the MIT license. You can ignore this for working on the problem set.
 - `README.md`: This file. You shouldn't need to touch this.
 - `.gitignore`: This tells `git` what files to ignore. You shouldn't need to touch this.
