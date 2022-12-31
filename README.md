@@ -17,6 +17,7 @@ After completing Homework 1, you should be able to:
 
 The repository consists of the following files:
 - `hw1.ipynb`: Jupyter Notebook for the homework assignment. Students should create code or Markdown blocks as necessary to answer questions. An exported PDF 
-- `Project.toml`, `Manifest.toml`: Julia environment files. These should just work, but feel free to add other packages as needed using the `Pkg` package manager.
+- `Project.toml`: Julia environment files. These should just work, but feel free to add other packages as needed using the `Pkg` package manager.
 - `LICENSE`: This material is licensed using the MIT license. You can ignore this for working on the problem set.
+- `README.md`: This file. You shouldn't need to touch this.
 - `.gitignore`: This tells `git` what files to ignore. You shouldn't need to touch this.
