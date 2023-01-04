@@ -7,11 +7,11 @@ This is the template repository for Homework 1 for [BEE 6940, Climate Risk Analy
 ## Learning Objectives
 
 After completing Homework 1, you should be able to:
-  * complete basic programming tasks in Julia;
   * identify the source of common code errors;
   * apply basic strategies of code debugging;
   * interpret code snippets;
   * use your knowledge of Julia to fix code errors.
+  * refactor code into functions to facilitate debugging and reuse.
 
 ## Repository Overview
 
